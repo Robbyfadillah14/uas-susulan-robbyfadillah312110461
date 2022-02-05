@@ -14,4 +14,4 @@ BMKG web content scraper, mengambil konten cuaca dan gempa dan menampilkan data 
 * **MatplotLib (`$ pip install matplotlib`)**
 
 ## Authors
-Ogie Rizki
+robby fadillah
